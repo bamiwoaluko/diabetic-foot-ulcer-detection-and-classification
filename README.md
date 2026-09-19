@@ -9,7 +9,7 @@ A two-stage deep learning pipeline that detects diabetic foot ulcers in images a
 ## 📓 View the Notebook
 
 - **[View rendered notebook on nbviewer](https://nbviewer.org/github/bamiwoaluko/diabetic-foot-ulcer-detection-and-classification/blob/main/DFU_finalYearProject.ipynb)** — full notebook with all outputs, for a quick read-through
-- **[Open in Google Colab](https://colab.research.google.com/drive/1P1HmrJgFHEoTaPfzcHhDbE7KVrY4LDrP?usp=sharing)** — run it yourself, cell by cell
+- **[Open in Google Colab](https://colab.research.google.com/drive/1P1HmrJgFHEoTaPfzcHhDbE7KVrY4LDrP?usp=sharing)** — view or run by yourself.
 
 ---
 
