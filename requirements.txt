@@ -1,0 +1,9 @@
+streamlit>=1.32
+torch>=2.1
+torchvision>=0.16
+ultralytics>=8.1
+grad-cam>=1.5
+opencv-python-headless>=4.9
+numpy>=1.26
+pandas>=2.1
+Pillow>=10.0
